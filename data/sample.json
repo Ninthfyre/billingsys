@@ -1,0 +1,15 @@
+{
+  "cafeName": "Pool Cafe Manager",
+  "currency": "₹",
+  "pricingMethod": "minute",
+  "priceMinute": 5,
+  "priceHour": 300,
+  "theme": "neon",
+  "autoSave": true,
+  "defaultTables": 4,
+  "tables": [],
+  "players": [],
+  "history": [],
+  "activity": [],
+  "quickPlayers": []
+}
